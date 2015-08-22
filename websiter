@@ -1,0 +1,79 @@
+  <html>
+	<!-- this is where the header goes -->
+	<head>
+		<title> Destiny's Homepage </title>
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">
+		<style>
+			body {
+				font-family: 'Open Sans', serif;
+    			background-color: #D0D0D0;
+			}
+	div.sidebar{
+		background-color: #E2FAF8;
+		-webkit-border-radius: 10px;
+		float:left;
+		width: 200px;
+		height:600px;
+		padding: 5px 5px;
+		position: relative;
+		margin-left: 20px;
+		margin-top: 20px;
+		
+		#footer{
+		size: 20px;
+		}
+		
+#share-buttons img {
+padding: 2px;
+border: 0;
+box-shadow: 0;
+display: inline;
+
+p.center {
+    text-align: center;
+}
+}	 
+		
+	}
+	</style>
+	</head>
+	<body>
+	<div class= "sidebar">
+		Destiny's Pages <br>
+		<a href="file:///Users/destinymartinez/Downloads/ball2.html"> Fish Tank Project</a>
+		<br>
+		<a href="file:///Users/destinymartinez/Downloads/map.html"> Map! </a>
+		<br/>
+	</div>
+		<h1> <b> <em> <font size="25"> 
+		Destiny's Homepage
+		</h1> </b> </em> </font> 
+		<p> <font face="verdana" size="4.5" color="#20B2AA"> ABOUT </font> </p>
+		<p> <font face="verdana" size="3" color="250"> hhi, my name is Destiny and I am....</font></p>
+		
+		<a href="http://www.aspca.org/pet-care/top-10-reasons-spay-or-neuter-your-pet"><img src="ryder.jpg" style = "position: relative; left: 50px; height: 400px; width: 300px;"></a>
+		<!-- add a box to show txt -->
+		<p> Click Below to Check out Destiny's Project! </p>
+		<a href="file:///Users/destinymartinez/Downloads/ball2.html"> Fish Tank Project</a>
+		<p>
+		</p>
+		<a href="file:///Users/destinymartinez/Downloads/ball2%20(1).html"><img src="ftank.png" style = "position:relative; left: 50px; height: 350px; width: 350px;"> </a>            
+		</div>
+				
+    <footer>
+    <br>
+  <p>Contact information: <br>
+  destinymartinez505@gmail.com<br> 
+  
+</footer>
+			
+			<p> <a href="https://www.linkedin.com/pub/destiny-martinez/ba/614/13b" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" height="30" width="30"/></p>
+        <p> <a href="EMAILLLLLLLL" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/email.png" height="30" width="30"/></p>
+
+			</div>
+		</div>
+	</div>
+	</body>
+</html>
